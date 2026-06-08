@@ -61,6 +61,11 @@ The simulation is based on:
 
 The simulation successfully demonstrates conductive filament formation and reproduces qualitative trends reported in phase-field studies of RRAM devices.
 
+
+### Conductive Filament Evolution
+
+![Filament Evolution](figures/filament_evolution.png)
+
 ---
 
 ## Author
